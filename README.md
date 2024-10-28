@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou em busca de um estágio 
-- 🌱 Estudando Front-end.
+- 🌱 Estudando Front-end
 - 💬 Encontre-me no LinkedIn: Lauren de Azevedo Steinhoefel
 - 📫 Fale comigo através do email: laurenazevedo.steinhoefel@gmail.com
 
